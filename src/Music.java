@@ -53,7 +53,7 @@ public class Music
 	}
 	public static void paragraph1()
 	{
-		System.out.println("Thsis is the malt");
+		System.out.println("This is the malt");
 		endLine();
 		System.out.println("");
 	}
