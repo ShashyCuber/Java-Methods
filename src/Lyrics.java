@@ -1,9 +1,10 @@
 // Shashwat Sparsh
-public class Music
+public class Lyrics
 {
 	public static void endLine()
 	{
 		System.out.println("That lay in the house that Jack built.");
+		System.out.println("");
 	}
 	public static void killRat()
 	{
@@ -55,37 +56,31 @@ public class Music
 	{
 		System.out.println("This is the malt");
 		endLine();
-		System.out.println("");
 	}
 	public static void paragraph2()
 	{
 		System.out.println("This is the rat,");
 		endCouplet();
-		System.out.println("");
 	}
 	public static void paragraph3()
 	{
 		System.out.println("This is the cat,");
 		endTriplet();
-		System.out.println("");
 	}
 	public static void paragraph4()
 	{
 		System.out.println("This is the dog,");
 		endQuartet();
-		System.out.println("");
 	}
 	public static void paragraph5()
 	{
 		System.out.println("This is the cow with the crumpled horn,");
 		endQuintent();
-		System.out.println("");
 	}
 	public static void paragraph6()
 	{
 		System.out.println("This is the maiden all forlorn,");
 		endSextet();
-		System.out.println("");
 	}
 	public static void main(String[] args)
 	{
